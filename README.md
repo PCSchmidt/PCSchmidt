@@ -2,7 +2,10 @@
 
 **Applied Mathematician → AI Engineer** | MS Applied Mathematics | JHU AI Engineering (MSE)
 
-Building hands-on ML and AI engineering projects while completing an MSE in AI Engineering at Johns Hopkins. Background in applied mathematics with professional experience in data engineering and analysis at the US Patent & Trademark Office.
+Building hands-on ML and AI engineering projects while completing an MSE in AI
+Engineering at Johns Hopkins. Background in applied mathematics with professional
+experience in data engineering and analysis at the US Patent & Trademark
+Office.
 
 ### Highlighted Projects
 
@@ -11,6 +14,6 @@ Building hands-on ML and AI engineering projects while completing an MSE in AI E
 - 🤖 [SkillSwap](https://github.com/PCSchmidt/skillswapappmvp) — Semantic skill matching with Next.js, FastAPI, and pgvector
 - 📊 [β-VAE Ablation Study](https://github.com/PCSchmidt/generative-modeling-study) — 6-config β sweep, from-scratch PyTorch implementation
 - 🎮 [RL Environment Study](https://github.com/PCSchmidt/rl-environment-study) — Custom GridWorld with Q-learning, SARSA, and policy gradient
-- 📓 [Journal Summarizer](https://github.com/PCSchmidt/generative-ai-journal-summarizer) — Multi-provider LLM gateway with Groq, HuggingFace, and BYOK support
+- 📓 [Journal Summarizer](https://github.com/PCSchmidt/generative-ai-journal-summarizer) — ReAct agent with tool-use loop, RAG pipeline, and multi-provider LLM gateway
 
-📐 [Portfolio](https://pcschmidt.github.io) · 📄 [Resume](https://pcschmidt.github.io/resume)
+📐 [Portfolio](https://pcschmidt.github.io/) · 📄 [Resume](https://pcschmidt.github.io/resume)
