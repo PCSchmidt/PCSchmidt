@@ -1,8 +1,8 @@
 # Chris Schmidt
 
-**Applied Mathematician turned AI Engineer** | MS Applied Mathematics | JHU AI Engineering (MSE, in progress)
+**ML Engineer, HII Mission Technologies** | MS Applied Mathematics (Towson, 2021) | JHU AI Engineering (MSE, expected Dec 2028)
 
-Building end-to-end ML systems while completing a graduate program at Johns Hopkins. Background in applied mathematics with professional experience in data engineering and applied data analysis. Projects span inference optimization, real-time anomaly detection, retrieval-augmented generation, and parameter-efficient fine-tuning.
+Five years of professional experience in data engineering and ML engineering supporting DoD programs at HII Mission Technologies. Currently supporting the F-35 Joint Program Office's data modernization initiative on AWS GovCloud using Python and SQL. Projects span inference optimization, real-time anomaly detection, retrieval-augmented generation, and parameter-efficient fine-tuning.
 
 ---
 
@@ -30,6 +30,6 @@ Building end-to-end ML systems while completing a graduate program at Johns Hopk
 
 ### Background
 
-I work as an ML Engineer at the US Patent and Trademark Office, where I write Python and SQL for data analysis and modernization work. The projects above are personal learning projects built alongside JHU coursework, not production systems I shipped at work. I try to represent that boundary honestly in every project write-up.
+I work as an ML Engineer at HII Mission Technologies, supporting the F-35 Joint Program Office's data modernization initiative on AWS GovCloud. My day-to-day is Python and SQL for data analysis and pipeline development on DoD programs. The projects above are personal learning projects built alongside JHU coursework, not production systems I shipped at work. I try to represent that boundary honestly in every project write-up.
 
 📐 [Portfolio](https://pcschmidt.github.io/) | 📄 [Resume](https://pcschmidt.github.io/resume) | Writing: [pcschmidt.github.io/thinking](https://pcschmidt.github.io/thinking)
